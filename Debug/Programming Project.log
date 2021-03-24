@@ -1,0 +1,8 @@
+﻿  Programming Project.cpp
+C:\Users\dell\source\repos\Programming Project\Programming Project\Programming Project.cpp(122,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\dell\source\repos\Programming Project\Programming Project\Programming Project.cpp(132,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dell\source\repos\Programming Project\Programming Project\Programming Project.cpp(186,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dell\source\repos\Programming Project\Programming Project\Programming Project.cpp(243): warning C4715: 'Error_sum': not all control paths return a value
+C:\Users\dell\source\repos\Programming Project\Programming Project\Programming Project.cpp(259): warning C4715: 'Error_div': not all control paths return a value
+C:\Users\dell\source\repos\Programming Project\Programming Project\Programming Project.cpp(251): warning C4715: 'Error_mult': not all control paths return a value
+  Programming Project.vcxproj -> C:\Users\dell\source\repos\Programming Project\Debug\Programming Project.exe
